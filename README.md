@@ -11,6 +11,6 @@
 # Summary 
 * The biggest drawback is that the dataset is small
 
-1) Filtering by whether corresponding data entries <i>have</i> text from the filters, rather than only a precise string match
+1) Filtering by a partial match, ie whether corresponding data entries <i>have</i> text from the filters, rather than only a precise string match
 2) The ability to click column names to order the data by ascending or descending attributes
 3) The ability to search through comments for keywords and phrases
